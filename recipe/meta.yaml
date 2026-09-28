@@ -22,5 +22,6 @@ requirements:
     - cmake
     - make  # [not win]
     - jom   # [win]
+    - git
   host:
     - qt >=5.9
